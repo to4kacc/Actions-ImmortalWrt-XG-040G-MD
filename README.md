@@ -1,0 +1,27 @@
+
+Build Immortalwrt for Nokia-Bell XG-040G-MD using GitHub Actions
+
+Kernel Version : 6.12
+
+- Support IPV6
+- Support NPU
+- Support Overclock
+
+Base from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+
+
+## Acknowledgments
+
+- [Microsoft](https://www.microsoft.com)
+- [Microsoft Azure](https://azure.microsoft.com)
+- [GitHub](https://github.com)
+- [GitHub Actions](https://github.com/features/actions)
+- [tmate](https://github.com/tmate-io/tmate)
+- [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
+- [csexton/debugger-action](https://github.com/csexton/debugger-action)
+- [Cisco](https://www.cisco.com/)
+- [OpenWRT](https://github.com/King-Of-Knights/openwrt-6.x)
+
+## License
+
+[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX 
